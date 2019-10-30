@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">P-Line</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_homepembeli">homepembeli</string>
+    <string name="title_activity_sign_in_service">SignInService</string>
+    <string name="title_activity_penjual">penjual</string>
+    <string name="title_activity_menuminuman">menuminuman</string>
+    <string name="title_activity_image_adapter">ImageAdapter</string>
+    <string name="title_activity_datafrom_mysql">DatafromMysql</string>
+    <string name="title_activity_waitinglist">waitinglist</string>
+    <string name="title_activity_homepenjual">homepenjual</string>
+</resources>
